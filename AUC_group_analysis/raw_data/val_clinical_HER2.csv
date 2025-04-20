@@ -1,0 +1,178 @@
+ID,True_label,final_prediction,final_prediction_score,Age,Family history,Menopause,ER,PR,HER2,ki67,clinical_grade,clinical_grade_123,molecular_type
+4769 CHEN JUAN JUAN.nii.gz,0,0,0.128703395,38,0,0,Positive,Positive,Positive,Positive,0,0,3
+4985 TIAN QIU NI.nii.gz,1,1,0.550297759,66,0,1,Negative,Negative,Positive,Positive,0,0,4
+4997 WANG BAO ZHU.nii.gz,0,0,0.176303664,70,0,1,Negative,Positive,Positive,Positive,0,0,3
+kejinzhen-MR020110.nii.gz,1,1,0.277961423,66,0,1,Positive,Positive,Positive,Positive,0,0,3
+009liyuexian.nii.gz,1,0,0.157723602,57,1,1,Positive,Positive,Positive,Positive,1,1,4
+159ZHANG RONG FEN.nii.gz,0,1,0.179772802,40,0,0,Positive,Positive,Positive,Positive,1,1,3
+2561 BO CAI.nii.gz,0,0,0.084470484,47,0,0,Negative,Negative,Positive,Negative,1,1,4
+2571 CHEN AI HUA.nii.gz,0,0,0.15176066,53,1,1,Negative,Negative,Positive,Negative,1,1,4
+3236 CHEN JIAO.nii.gz,0,0,0.119038788,49,1,1,Positive,Positive,Positive,Positive,1,1,3
+3257 CUI FENG KUN.nii.gz,0,0,0.159468993,44,0,0,Positive,Positive,Positive,Positive,1,1,3
+3442 LI LI HONG.nii.gz,0,0,0.059158343,40,0,0,Positive,Positive,Positive,Positive,1,1,3
+3989 SHI CHUN E.nii.gz,0,1,0.09894653,52,1,0,Negative,Negative,Positive,Positive,1,1,4
+4428 WANG FENG LIAN.nii.gz,0,0,0.076324238,50,1,0,Positive,Positive,Positive,Positive,1,1,3
+4515 XU YAN FEN.nii.gz,0,0,0.140273041,46,0,0,Negative,Positive,Positive,Positive,1,1,3
+4672 ZHENG LI YA.nii.gz,0,0,0.07621453,58,0,1,Negative,Negative,Positive,Positive,1,1,4
+4761 CHEN GUAN ZHI.nii.gz,0,0,0.165697789,46,0,0,Negative,Negative,Positive,Positive,1,1,4
+4957 LI JUN WEI.nii.gz,0,0,0.188457,46,0,0,Negative,Negative,Positive,Negative,1,1,4
+5135 YANG WEN ZHEN.nii.gz,0,0,0.111046866,50,0,0,Positive,Positive,Positive,Positive,1,1,3
+6121Li Zhao Ling.nii.gz,0,0,0.137143045,47,1,0,Positive,Positive,Positive,Positive,1,1,3
+6215Chen Yong Fen.nii.gz,0,0,0.04285155,46,0,0,Positive,Positive,Positive,Negative,1,1,3
+6298Zhang Hu Mei.nii.gz,0,0,0.039194458,59,1,1,Positive,Positive,Positive,Positive,1,1,3
+6393Zong Yan.nii.gz,1,1,0.435721214,40,0,0,Positive,Positive,Positive,Positive,1,1,3
+6435Li Hui Ying.nii.gz,0,0,0.122744855,57,0,1,Positive,Positive,Positive,Positive,1,1,3
+6472Chen Dan.nii.gz,0,0,0.048177225,35,0,0,Negative,Positive,Positive,Positive,1,1,3
+6516Feng Shu Fen.nii.gz,1,1,0.528823776,46,1,0,Positive,Positive,Positive,Positive,1,1,3
+4624 ZHANG WAN CHUN.nii.gz,0,0,0.078136108,56,1,1,Positive,Positive,Positive,Positive,2,2,3
+5752Zhao Xian.nii.gz,0,0,0.054130839,42,0,0,Negative,Negative,Positive,Positive,2,2,4
+5998Lin Feng Yan.nii.gz,0,1,0.150973436,49,0,1,Positive,Positive,Positive,Positive,3,2,3
+6327Zhao Yuan Lan.nii.gz,1,1,0.295486372,58,0,1,Positive,Positive,Positive,Positive,2,2,3
+6337Duan Zhao Fen.nii.gz,0,0,0.050228404,66,0,1,Positive,Positive,Positive,Positive,3,2,3
+709ZHANG QIONG HUA.nii.gz,0,1,0.249298069,31,0,0,Negative,Positive,Positive,Positive,2,2,3
+919LI JING.nii.gz,0,0,0.064702459,40,0,0,Negative,Negative,Positive,Positive,3,2,4
+989LIU XIU.nii.gz,0,0,0.064591522,46,0,0,Negative,Negative,Positive,Positive,2,2,4
+6345Huang Hong.nii.gz,0,0,0.0770737,52,0,1,Positive,Positive,Positive,Positive,4,3,3
+4743 BAO HONG XIAN.nii.gz,0,0,0.045818353,53,0,1,Positive,Positive,Negative,Negative,0,0,0
+5220 ZHANG XI HUI.nii.gz,1,1,0.62438137,37,1,0,Positive,Positive,Negative,Positive,0,0,0
+742BAI DI.nii.gz,0,0,0.120791632,27,0,0,Positive,Positive,Negative,Positive,0,0,0
+daiyunfang-MR020759.nii.gz,0,1,0.520525052,44,0,0,Positive,Positive,Negative,Negative,0,0,0
+008liaopinghua.nii.gz,0,1,0.389575878,51,0,0,Positive,Positive,Negative,Positive,1,1,0
+2574 CHEN FENG FEI.nii.gz,0,0,0.185428379,63,0,1,Negative,Negative,Negative,Positive,1,1,2
+2582 CHEN JING RU.nii.gz,1,0,0.276095859,47,0,0,Positive,Positive,Negative,Negative,1,1,0
+2620 DING HONG YUN.nii.gz,0,0,0.049553484,43,0,0,Positive,Positive,Negative,Negative,1,1,0
+2626 DONG MENG YUN.nii.gz,0,0,0.18658941,49,0,0,Positive,Positive,Negative,Positive,1,1,0
+2640 DUAN LI.nii.gz,0,0,0.117442476,49,0,0,Positive,Positive,Negative,Positive,1,1,0
+2705 LI MEI LING.nii.gz,0,0,0.070540036,52,0,0,Positive,Positive,Negative,Negative,1,1,0
+2715 LI SHU QIONG.nii.gz,1,1,0.358613362,29,0,0,Negative,Negative,Negative,Positive,1,1,2
+2825 MIAO SU JIANG.nii.gz,0,0,0.064984492,60,0,1,Negative,Positive,Negative,Positive,1,1,1
+2827 MIU YONG ZHEN.nii.gz,0,0,0.05663102,41,1,0,Positive,Positive,Negative,Negative,1,1,0
+2887 SU WEN QIN.nii.gz,0,0,0.043975846,57,0,1,Positive,Positive,Negative,Negative,1,1,0
+2888 SU XIAN HUI.nii.gz,0,0,0.070770248,36,0,0,Positive,Positive,Negative,Positive,1,1,0
+2899 TANG SHI LIU.nii.gz,1,1,0.28353613,40,0,0,Positive,Positive,Negative,Negative,1,1,0
+2969 WEN XIU QIN.nii.gz,0,0,0.038342826,61,1,1,Positive,Positive,Negative,Negative,1,1,0
+2975 WU SHAO FENG.nii.gz,0,1,0.241054152,35,0,0,Positive,Positive,Negative,Positive,1,1,0
+3023 YANG GUI QIN.nii.gz,0,1,0.117594502,55,0,1,Positive,Positive,Negative,Positive,1,1,0
+3026 YANG HUA.nii.gz,0,1,0.046253854,42,0,0,Positive,Positive,Negative,Positive,1,1,0
+3278 DONG XI SHUN.nii.gz,0,0,0.078097213,39,0,0,Positive,Positive,Negative,Positive,1,1,0
+3285 DU YU FEN.nii.gz,0,0,0.157105449,59,0,1,Positive,Positive,Negative,Negative,1,1,0
+3298 FANG HUI.nii.gz,0,0,0.101704652,36,0,0,Positive,Positive,Negative,Negative,1,1,0
+3303 FU GAI QIONG.nii.gz,0,0,0.116421472,56,0,1,Negative,Negative,Negative,Positive,1,1,2
+3316 GE YAN HONG.nii.gz,0,0,0.054654824,48,0,1,Positive,Positive,Negative,Positive,1,1,0
+3361 HU AI HUI.nii.gz,0,0,0.090086545,44,0,0,Positive,Positive,Negative,Negative,1,1,0
+3378 HUANG SHAN.nii.gz,0,0,0.031578774,48,0,1,Positive,Negative,Negative,Negative,1,1,1
+3390 JIANG LIU FEN.nii.gz,0,0,0.0474721,48,0,0,Positive,Positive,Negative,Negative,1,1,0
+3398 KONG LING JU.nii.gz,1,1,0.260809381,56,0,1,Positive,Positive,Negative,Negative,1,1,0
+3427 LI HAI FANG.nii.gz,0,0,0.063777027,32,1,0,Positive,Positive,Negative,Positive,1,1,0
+3519 LIU SHAO MEI.nii.gz,0,0,0.072738415,49,0,0,Positive,Positive,Negative,Negative,1,1,0
+3684 YE QIONG.nii.gz,0,0,0.031484195,62,0,1,Positive,Positive,Negative,Positive,1,1,0
+3821 WANG YAN HONG.nii.gz,0,0,0.02643957,34,1,0,Positive,Positive,Negative,Positive,1,1,0
+3834 WEN XIAO FENG.nii.gz,0,0,0.074114391,50,0,1,Positive,Positive,Negative,Negative,1,1,0
+3903 GAO XING MEI.nii.gz,0,0,0.061149389,44,0,0,Positive,Positive,Negative,Negative,1,1,0
+3981 REN YU ZHU.nii.gz,0,0,0.049790455,43,0,0,Negative,Positive,Negative,Positive,1,1,1
+3994 SHI SHU BIN.nii.gz,0,1,0.325172113,39,0,0,Positive,Positive,Negative,Negative,1,1,0
+4166 BAO SHUANG XIAN.nii.gz,0,0,0.073427519,46,0,0,Positive,Positive,Negative,Negative,1,1,0
+4231 DONG SHU YIN.nii.gz,0,0,0.097985903,45,0,0,Positive,Positive,Negative,Positive,1,1,0
+4248 JIANG YING MIN.nii.gz,0,0,0.046130836,45,1,0,Positive,Positive,Negative,Negative,1,1,0
+4254 JIN YUN FANG.nii.gz,0,0,0.052144039,46,0,0,Positive,Positive,Negative,Positive,1,1,0
+4255 JIN LI.nii.gz,0,0,0.166650608,43,0,0,Positive,Positive,Negative,Negative,1,1,0
+4274 LI HONG MEI.nii.gz,0,0,0.082052219,42,0,0,Positive,Positive,Negative,Positive,1,1,0
+4408 LU XIU YU.nii.gz,0,0,0.056188532,65,0,0,Positive,Positive,Negative,Positive,1,1,0
+4498 XU HONG.nii.gz,1,1,0.548696248,56,0,1,Positive,Positive,Negative,Negative,1,1,0
+4506 XU FENG MIN.nii.gz,1,1,0.666982131,55,1,0,Positive,Positive,Negative,Positive,1,1,0
+4508 XU HAI YAN.nii.gz,0,0,0.0416477,47,0,0,Positive,Positive,Negative,Positive,1,1,0
+4522 YAN ZHU FEN.nii.gz,0,0,0.057301571,56,0,0,Positive,Positive,Negative,Negative,1,1,0
+4564 YIN YU LIAN.nii.gz,0,0,0.072542159,48,1,0,Positive,Positive,Negative,Negative,1,1,0
+4590 ZHAI PING.nii.gz,0,1,0.135162651,65,0,1,Positive,Positive,Negative,Negative,1,1,0
+4677 ZHONG CHUN FENG.nii.gz,0,0,0.189866141,38,0,0,Positive,Positive,Negative,Positive,1,1,0
+4690 ZHOU MI.nii.gz,0,0,0.183414193,46,0,0,Positive,Positive,Negative,Positive,1,1,0
+4724 SHI YAN.nii.gz,0,0,0.066440896,48,0,0,Positive,Positive,Negative,Positive,1,1,0
+4791 CHENG LI RONG.nii.gz,0,0,0.111549622,54,0,0,Positive,Positive,Negative,Negative,1,1,0
+4848 GU YUN LI.nii.gz,1,1,0.639824306,49,0,0,Positive,Positive,Negative,Negative,1,1,0
+4943 LI HAI YAN.nii.gz,0,0,0.119759337,46,0,0,Negative,Negative,Negative,Positive,1,1,2
+4949 LI JIAN LING.nii.gz,0,0,0.125119082,46,1,1,Negative,Negative,Negative,Positive,1,1,2
+5022 WANG PING.nii.gz,0,0,0.150555722,48,0,0,Positive,Positive,Negative,Positive,1,1,0
+5041 WANG YUN.nii.gz,0,0,0.077126598,60,1,1,Positive,Positive,Negative,Positive,1,1,0
+5054 WU WANG CHUN.nii.gz,0,0,0.212731232,50,0,0,Positive,Positive,Negative,Negative,1,1,0
+5077 XU QIN.nii.gz,0,0,0.037748478,28,0,0,Positive,Positive,Negative,Negative,1,1,0
+5139 YANG XIAO FANG.nii.gz,0,0,0.207713864,44,0,0,Positive,Positive,Negative,Negative,1,1,0
+5230 ZHANG YU.nii.gz,1,1,0.45986722,34,1,0,Negative,Negative,Negative,Negative,1,1,2
+5235 ZHANG CHUN YAN.nii.gz,0,1,0.348230985,46,0,0,Positive,Positive,Negative,Negative,1,1,0
+5309 LI NING XI.nii.gz,0,0,0.132669449,49,0,0,Positive,Positive,Negative,Negative,1,1,0
+5352 LIANG LI HUA.nii.gz,0,0,0.082225305,47,0,0,Positive,Positive,Negative,Negative,1,1,0
+5602 YANG XIANG RONG.nii.gz,0,1,0.196532485,62,1,1,Negative,Negative,Negative,Negative,1,1,2
+5625Zheng Qi.nii.gz,0,0,0.047568156,44,0,0,Positive,Positive,Negative,Positive,1,1,0
+5658Yang Ai Hua.nii.gz,0,0,0.236069182,45,0,0,Positive,Positive,Negative,Positive,1,1,0
+5694Zhou Ye.nii.gz,0,0,0.03968906,51,1,0,Positive,Positive,Negative,Positive,1,1,0
+5698Duan Xiao Li.nii.gz,0,0,0.246174652,42,0,0,Positive,Positive,Negative,Negative,1,1,0
+5726Zhu Heng Xian.nii.gz,0,0,0.069750666,60,0,1,Positive,Positive,Negative,Positive,1,1,0
+5820Li Qi Hui.nii.gz,0,0,0.10615796,59,0,1,Positive,Positive,Negative,Negative,1,1,0
+5879Yan Ling Ling.nii.gz,0,1,0.242982369,42,0,0,Positive,Positive,Negative,Positive,1,1,0
+5910Wang Jin Yu.nii.gz,0,0,0.096633158,56,0,1,Positive,Positive,Negative,Negative,1,1,0
+5931Zhang Guang Jie.nii.gz,0,0,0.078876102,44,1,0,Positive,Positive,Negative,Negative,1,1,0
+5935Su Hong Hua.nii.gz,0,0,0.118653089,38,0,0,Positive,Positive,Negative,Negative,1,1,0
+5968Dan Chun Qin.nii.gz,0,0,0.116447955,45,0,0,Positive,Positive,Negative,Positive,1,1,0
+6148Wang Ming Zhi.nii.gz,0,0,0.057081498,69,1,1,Positive,Positive,Negative,Negative,1,1,0
+6159Guo Shu Lan.nii.gz,0,0,0.039469807,49,0,0,Positive,Positive,Negative,Negative,1,1,0
+6162Yang Xiu Yun.nii.gz,0,0,0.132613166,45,0,0,Positive,Positive,Negative,Negative,1,1,0
+6169Hou Qiong Zhen.nii.gz,0,0,0.033822579,64,0,1,Positive,Positive,Negative,Positive,1,1,0
+6207He Li Xin.nii.gz,0,0,0.135572832,55,0,1,Negative,Negative,Negative,Positive,1,1,2
+6214Li Yu.nii.gz,0,0,0.155050606,53,0,1,Positive,Negative,Negative,Negative,1,1,1
+6235Yang Li Jian.nii.gz,0,0,0.105895087,40,0,0,Positive,Positive,Negative,Negative,1,1,0
+6259Pu Yu Zhen.nii.gz,0,0,0.064347394,57,0,1,Positive,Positive,Negative,Negative,1,1,0
+6285Zhou Ying.nii.gz,0,0,0.060431415,38,0,0,Positive,Positive,Negative,Positive,1,1,0
+6411Wang Qiu Jing.nii.gz,0,0,0.050299533,59,0,1,Positive,Positive,Negative,Negative,1,1,0
+6424Wang Wen.nii.gz,0,0,0.027812175,54,0,1,Positive,Positive,Negative,Positive,1,1,0
+6442Zhu Ya Nan.nii.gz,0,0,0.067785946,30,1,0,Positive,Positive,Negative,Positive,1,1,0
+6479Yang Li Hua.nii.gz,0,0,0.087716318,51,0,1,Negative,Negative,Negative,Negative,1,1,2
+6481Guo Xue Ying.nii.gz,0,0,0.222743554,59,0,1,Positive,Positive,Negative,Positive,1,1,0
+6512Chen Qiong Hua.nii.gz,0,0,0.253506144,44,0,0,Positive,Positive,Negative,Negative,1,1,0
+6552Zhu Min.nii.gz,0,0,0.056338606,41,0,0,Positive,Positive,Negative,Negative,1,1,0
+6561Zhang Zhong Zhen.nii.gz,0,0,0.060982863,49,1,0,Positive,Positive,Negative,Positive,1,1,0
+6620Zhang Xing Hui.nii.gz,1,1,0.633540831,43,0,0,Positive,Positive,Negative,Negative,1,1,0
+6621Han Song Mei.nii.gz,0,0,0.137944187,66,1,1,Positive,Positive,Negative,Negative,1,1,0
+6629Wang Yu Mei.nii.gz,0,0,0.235920931,46,0,0,Positive,Positive,Negative,Positive,1,1,0
+6776Yuan Zi Ran.nii.gz,0,0,0.106080142,36,1,0,Positive,Positive,Negative,Negative,1,1,0
+955LI XUE QIONG.nii.gz,0,1,0.321008981,38,0,0,Positive,Positive,Negative,Positive,1,1,0
+GuoDongMi-MR028326-20230508.nii.gz,0,1,0.529414345,49,1,0,Positive,Positive,Negative,Negative,1,1,0
+wujihui-MR038890.nii.gz,0,0,0.086211066,61,0,1,Negative,Positive,Negative,Negative,1,1,0
+2343LI GUANG QIONG.nii.gz,1,1,0.054342491,39,0,0,Positive,Positive,Negative,Positive,3,2,0
+2973 WU JIA HUAN.nii.gz,0,1,0.202960025,66,1,1,Positive,Positive,Negative,Positive,2,2,0
+2997 XU CHUN MEI.nii.gz,0,0,0.298904187,58,0,1,Positive,Positive,Negative,Negative,2,2,0
+3001 XU JUAN.nii.gz,1,0,0.146241038,43,0,0,Positive,Positive,Negative,Positive,2,2,0
+3594 PEI LEI.nii.gz,0,0,0.133626678,41,0,0,Positive,Positive,Negative,Positive,2,2,0
+3909 GU ZHUAN DI.nii.gz,0,0,0.072853061,41,0,0,Negative,Positive,Negative,Positive,2,2,1
+4204 CHEN SHAO FEI.nii.gz,0,0,0.084257374,43,0,0,Positive,Positive,Negative,Positive,2,2,0
+4223 DAO YAN FEN.nii.gz,0,0,0.094439359,45,0,0,Positive,Positive,Negative,Positive,2,2,0
+4360 LIN RUI XIAN.nii.gz,0,0,0.0366387,55,0,1,Positive,Positive,Negative,Positive,2,2,0
+4394 LIU YING CHUN.nii.gz,0,0,0.085149478,49,0,0,Positive,Positive,Negative,Positive,2,2,0
+4487 XIE FANG.nii.gz,0,0,0.0701713,44,1,0,Positive,Positive,Negative,Positive,2,2,0
+4629 ZHANG XING LI.nii.gz,0,0,0.068716121,39,0,0,Positive,Positive,Negative,Positive,2,2,0
+4689 ZHOU LIAN HUA.nii.gz,0,0,0.120620398,48,0,0,Positive,Positive,Negative,Positive,2,2,0
+4705 ZHU TING JIE.nii.gz,0,0,0.195581672,45,0,1,Positive,Positive,Negative,Negative,2,2,0
+4772 CHEN MEI XIANG.nii.gz,0,0,0.056196154,50,0,1,Positive,Positive,Negative,Positive,2,2,0
+4888 HUANG CUI ZHEN.nii.gz,1,1,0.156862559,65,0,1,Negative,Negative,Negative,Positive,3,2,2
+5721Guo Zhu Qiu.nii.gz,0,0,0.204323891,71,0,1,Negative,Positive,Negative,Positive,2,2,1
+5779Meng Cui Hui.nii.gz,0,0,0.1511904,48,0,0,Negative,Positive,Negative,Positive,2,2,1
+5821He Xiu Yun.nii.gz,0,0,0.0472125,62,1,1,Positive,Positive,Negative,Positive,2,2,0
+5841Chen Yu Yu.nii.gz,0,0,0.069093382,36,0,0,Positive,Positive,Negative,Positive,2,2,0
+5895Yang Xue Ping.nii.gz,0,0,0.216647272,56,0,1,Negative,Positive,Negative,Positive,2,2,1
+6023Yu Ying Han.nii.gz,0,0,0.070161352,37,0,0,Positive,Positive,Negative,Positive,3,2,0
+6043Li Mi Hua.nii.gz,0,0,0.139338645,46,0,0,Positive,Positive,Negative,Positive,2,2,0
+6156Zhou Lu.nii.gz,0,0,0.162460799,36,1,0,Positive,Positive,Negative,Positive,2,2,0
+6290Sun Li Ying.nii.gz,0,0,0.260574744,54,0,1,Negative,Negative,Negative,Positive,2,2,2
+6319Yang De Mei.nii.gz,0,0,0.065319452,44,0,0,Positive,Positive,Negative,Positive,2,2,0
+6522Peng Gui Xian.nii.gz,0,0,0.036937298,67,0,1,Positive,Positive,Negative,Positive,2,2,0
+6569Li Yun Zhen.nii.gz,0,0,0.076384889,61,1,1,Positive,Positive,Negative,Negative,2,2,0
+6581Wang Hui Qiong.nii.gz,0,0,0.090450183,42,0,0,Positive,Positive,Negative,Negative,2,2,0
+6593Zhang Xiu Fen.nii.gz,0,0,0.146363777,52,0,0,Positive,Positive,Negative,Positive,2,2,0
+6685Peng Yu.nii.gz,1,1,0.275065931,31,0,0,Positive,Positive,Negative,Positive,3,2,0
+736XIONG KE HONG.nii.gz,1,1,0.597187076,37,1,0,Positive,Positive,Negative,Negative,2,2,0
+801DUAN ZHAO YA.nii.gz,0,0,0.095697883,53,0,1,Negative,Negative,Negative,Negative,2,2,2
+879JIANG XING SHUANG.nii.gz,0,0,0.136282442,45,1,1,Negative,Negative,Negative,Positive,2,2,2
+97YUAN LI HONG.nii.gz,0,0,0.053837117,50,0,0,Positive,Negative,Negative,Positive,3,2,1
+HongHuiFang-MR019388.nii.gz,0,1,0.484170404,46,0,0,Positive,Positive,Negative,Negative,3,2,0
+PengLiChuan-MR029182-20230530.nii.gz,1,1,0.402890926,69,0,1,Positive,Positive,Negative,Positive,3,2,1
+WenGuiQin-MR029288-20230530.nii.gz,1,1,0.441150615,70,0,1,Positive,Positive,Negative,Positive,2,2,1
+xiesiyuan-MR039125.nii.gz,1,1,0.682087854,46,0,0,Positive,Positive,Negative,Positive,2,2,1
+6321Zhang Guang Mei.nii.gz,1,1,0.669838752,56,0,0,Positive,Positive,Negative,Positive,6,3,0
