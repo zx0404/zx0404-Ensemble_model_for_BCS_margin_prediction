@@ -1,0 +1,445 @@
+ID,label-0,label-1
+001chenbixia.nii.gz,1.0,0.0
+002youhongliying.nii.gz,1.0,0.0
+002zuohongliying.nii.gz,1.0,0.0
+003chensuduan.nii.gz,0.0,1.0
+004guomeifang.nii.gz,0.0,1.0
+005huangchangrong.nii.gz,0.0,1.0
+006limeixian.nii.gz,1.0,0.0
+007lixuehua.nii.gz,0.0,1.0
+011qiumingzhu.nii.gz,0.0,1.0
+013wenyuzhi.nii.gz,1.0,0.0
+014wulimei.nii.gz,1.0,0.0
+015wuqingcai.nii.gz,1.0,0.0
+016xuqingting.nii.gz,1.0,0.0
+017xulirong.nii.gz,0.0,1.0
+018xusaijin.nii.gz,1.0,0.0
+019xushunwen.nii.gz,1.0,0.0
+ChenShouYing-MR028282-20230507.nii.gz,1.0,0.0
+chenshuqing-post-MR024994.nii.gz,1.0,0.0
+dongxiaoling-MR036165.nii.gz,0.0,1.0
+hexiaozhen-MR032739.nii.gz,1.0,0.0
+HuangLiNong-MR023217.nii.gz,1.0,0.0
+jiangxuefeng-MR036402.nii.gz,0.0,1.0
+liaizhen-MR039380.nii.gz,1.0,0.0
+LiangXiFeng-MR031521-20230804.nii.gz,0.0,1.0
+LiMeiMei-MR029699-20230611.nii.gz,1.0,0.0
+LiMingYue-MR027637-20230416.nii.gz,1.0,0.0
+LinMingZhi-MR026640-20230318.nii.gz,0.0,1.0
+LinYan-MR018380.nii.gz,1.0,0.0
+LinYiLing-MR032985-20230914.nii.gz,1.0,0.0
+linyiyan-MR039483.nii.gz,1.0,0.0
+LiuCuiPing-MR020767.nii.gz,0.0,1.0
+LiuXiangZhong-MR032219-20230823.nii.gz,1.0,0.0
+liuxiaoping-MR024605.nii.gz,1.0,0.0
+LvLiPing-MR032654-20230905.nii.gz,1.0,0.0
+ShenAiJin-MR025319-20230212.nii.gz,1.0,0.0
+WangShuXin-MR022198.nii.gz,1.0,0.0
+wangxiaoqiong-MR027577.nii.gz,1.0,0.0
+WuShuQiong-MR030602-20230708.nii.gz,1.0,0.0
+xushuping-MR036580.nii.gz,0.0,1.0
+XuYuMei-MR034053-20231016.nii.gz,1.0,0.0
+zhouweiqing-MR031481.nii.gz,1.0,0.0
+32WU CUI XIAN.nii.gz,1.0,0.0
+34XIE LI PING.nii.gz,1.0,0.0
+42ZHOU HONG JUN.nii.gz,1.0,0.0
+106DAI HONG MEI.nii.gz,0.0,1.0
+111GAO LIAN FEN.nii.gz,1.0,0.0
+131GAO YAN HONG.nii.gz,1.0,0.0
+133HUANG YAN.nii.gz,1.0,0.0
+146WANG DONG MEI.nii.gz,1.0,0.0
+156YANG YONG QING.nii.gz,1.0,0.0
+160ZHANG XUE MEI.nii.gz,1.0,0.0
+162ZHAO YAN HONG.nii.gz,1.0,0.0
+166GUO JI MAN.nii.gz,1.0,0.0
+303CHE XIANG LI.nii.gz,1.0,0.0
+392DA LI.nii.gz,1.0,0.0
+565YANG XIU FEN.nii.gz,1.0,0.0
+592ZHANG ZI QIN.nii.gz,1.0,0.0
+722ZHAO YU YING.nii.gz,1.0,0.0
+784DAI CHUN MEI.nii.gz,1.0,0.0
+819GU XIN.nii.gz,1.0,0.0
+888KONG MEI E.nii.gz,1.0,0.0
+1021MA JIAN FANG.nii.gz,1.0,0.0
+1060SHEN YANG.nii.gz,1.0,0.0
+1065SHI MING FEN-error.nii.gz,1.0,0.0
+1077SUN LING LAN.nii.gz,1.0,0.0
+1133WANG YAN.nii.gz,1.0,0.0
+1147WU SHAO QIN.nii.gz,1.0,0.0
+1188XU XIA.nii.gz,1.0,0.0
+1198YANG CUI LING.nii.gz,1.0,0.0
+1211YANG HAI YAN.nii.gz,1.0,0.0
+1285ZHANG GUO QING.nii.gz,1.0,0.0
+1289ZHANG JING YI.nii.gz,1.0,0.0
+1315ZHANG YU RONG.nii.gz,1.0,0.0
+1376CAO PING.nii.gz,1.0,0.0
+1406DUAN CHUN CAI.nii.gz,1.0,0.0
+1421GAO SHU YUN.nii.gz,0.0,1.0
+1577ZHANG CHUN.nii.gz,1.0,0.0
+1580ZHANG HONG LIAN.nii.gz,1.0,0.0
+1598ZHAO CAI YAN.nii.gz,1.0,0.0
+2554 BAO SHI FENG.nii.gz,1.0,0.0
+2559 BI XUE HUA.nii.gz,1.0,0.0
+2598 CHEN YAN.nii.gz,1.0,0.0
+2610 DAI JU LAN.nii.gz,1.0,0.0
+2627 DONG QIONG HUA.nii.gz,1.0,0.0
+2643 DUAN YAO JIANG.nii.gz,1.0,0.0
+2648 HUANG LI ZHI.nii.gz,1.0,0.0
+2681 LI GUI PING.nii.gz,0.0,1.0
+2702 LI LIN ZHI.nii.gz,1.0,0.0
+2730 LI YAN PING.nii.gz,1.0,0.0
+2765 LIU QIONG FEN.nii.gz,1.0,0.0
+2770 LIU XIAO QIN.nii.gz,0.0,1.0
+2793 LUO QIU MEI.nii.gz,1.0,0.0
+2804 LV QI.nii.gz,1.0,0.0
+2841PENG YING.nii.gz,0.0,1.0
+2917 WAN DIAN.nii.gz,1.0,0.0
+2919 WANG FANG.nii.gz,1.0,0.0
+2937 WANG PING.nii.gz,1.0,0.0
+2944 WANG SU JUAN.nii.gz,1.0,0.0
+3006 XU ZHI MING.nii.gz,1.0,0.0
+3136 ZHANG YONG BO.nii.gz,1.0,0.0
+3241 CHEN LING CUI.nii.gz,1.0,0.0
+3247 CHEN XUE FEI.nii.gz,1.0,0.0
+3265 DAO JING.nii.gz,1.0,0.0
+3269 DENG YA WEN.nii.gz,1.0,0.0
+3273 DING XIAO BING.nii.gz,1.0,0.0
+3274 DING YAN FEN.nii.gz,1.0,0.0
+3276 DONG QING.nii.gz,1.0,0.0
+3281 DOU LI HUA.nii.gz,1.0,0.0
+3286 DUAN BAO PING.nii.gz,1.0,0.0
+3290 DUAN YU ZHU.nii.gz,1.0,0.0
+3293 FAN XING HONG.nii.gz,1.0,0.0
+3294 FAN LAO HUAN.nii.gz,1.0,0.0
+3312 GAO MEI LAN.nii.gz,1.0,0.0
+3334 HAN SHAO LING.nii.gz,1.0,0.0
+3336 HAO PING FEN.nii.gz,1.0,0.0
+3340 HE LIN.nii.gz,1.0,0.0
+3347 HE YIN MAO.nii.gz,0.0,1.0
+3373 HUANG FANG.nii.gz,1.0,0.0
+3406 LEI XIAO LING.nii.gz,1.0,0.0
+3414 LI CHUN YAN.nii.gz,1.0,0.0
+3438 LI HUI JUN.nii.gz,1.0,0.0
+3456 LI QIAO YAN.nii.gz,1.0,0.0
+3485 LI YAN KUN.nii.gz,1.0,0.0
+3498 LIANG WEN XIONG.nii.gz,1.0,0.0
+3500 LIN FANG.nii.gz,1.0,0.0
+3530 LIU YONG HONG.nii.gz,0.0,1.0
+3533 LIU ZHU YING.nii.gz,1.0,0.0
+3542 LU YING.nii.gz,1.0,0.0
+3545 LUO CHUN LI.nii.gz,1.0,0.0
+3548 LUO LI HUA.nii.gz,1.0,0.0
+3564 MA JI MEI.nii.gz,1.0,0.0
+3570 MA YU FEN.nii.gz,1.0,0.0
+3573 MA ZHI XIAN.nii.gz,1.0,0.0
+3580 MENG YUE XIAN.nii.gz,1.0,0.0
+3583 MIN YAN PING.nii.gz,1.0,0.0
+3595 PENG RU PING.nii.gz,1.0,0.0
+3606 XU JU PING.nii.gz,1.0,0.0
+3630 YANG FU LI.nii.gz,1.0,0.0
+3651 YANG LI YING.nii.gz,1.0,0.0
+3652 YANG LI XIANG.nii.gz,0.0,1.0
+3670 YANG WAN HONG.nii.gz,1.0,0.0
+3682 YANG ZI YAN.nii.gz,1.0,0.0
+3840 WU QIN YING.nii.gz,1.0,0.0
+3878 DU PING.nii.gz,1.0,0.0
+3958 HUANG LI PING.nii.gz,1.0,0.0
+3967 PU HUI PING.nii.gz,1.0,0.0
+3974 QIAO LI FEN.nii.gz,1.0,0.0
+3976 QIN YONG FANG.nii.gz,0.0,1.0
+3986 SHI YA LING.nii.gz,1.0,0.0
+4025 TAN JING JING.nii.gz,1.0,0.0
+4031 TANG MEI RONG.nii.gz,1.0,0.0
+4039 TAO SHI PING.nii.gz,1.0,0.0
+4054 WANG YA MEI.nii.gz,1.0,0.0
+4103 QI HONG PING.nii.gz,1.0,0.0
+4145 ZHU HONG FEN.nii.gz,1.0,0.0
+4146 ZHU JIN PING.nii.gz,1.0,0.0
+4148 ZHU MEI LING.nii.gz,0.0,1.0
+4152 ZHU YU QIONG.nii.gz,1.0,0.0
+4154 ZI LI QIN.nii.gz,1.0,0.0
+4160 BAI CHUN LI.nii.gz,1.0,0.0
+4172 CAI XIANG CUI.nii.gz,0.0,1.0
+4174 CAO YI QUN.nii.gz,1.0,0.0
+4177 ZENG HONG.nii.gz,1.0,0.0
+4185 CHANG RU FENG.nii.gz,1.0,0.0
+4196 CHEN JIN PING.nii.gz,1.0,0.0
+4197 CHEN JING.nii.gz,1.0,0.0
+4209 CHEN WAN FENG.nii.gz,1.0,0.0
+4210 CHEN XUE PING.nii.gz,0.0,1.0
+4213 CHEN YUN MEI.nii.gz,1.0,0.0
+4215 CHENG HUI QIN.nii.gz,1.0,0.0
+4222 DAI YU XIU.nii.gz,0.0,1.0
+4256 KANG CHUAN XIAN.nii.gz,1.0,0.0
+4292 LI MEI CHUN.nii.gz,1.0,0.0
+4302 LI QIAN.nii.gz,1.0,0.0
+4339 LI YING BING.nii.gz,1.0,0.0
+4351 LI ZHU LIN.nii.gz,1.0,0.0
+4364 LIU FANG.nii.gz,1.0,0.0
+4381 LIU MIN ZHI.nii.gz,0.0,1.0
+4384 LIU SHAO GUI.nii.gz,1.0,0.0
+4389 LIU XIU FANG.nii.gz,1.0,0.0
+4390 LIU XUE JUN.nii.gz,1.0,0.0
+4392 LIU YAN.nii.gz,1.0,0.0
+4397 LIU YU FEN.nii.gz,1.0,0.0
+4404 LONG JIN MEI.nii.gz,1.0,0.0
+4406 LU GU HUA.nii.gz,1.0,0.0
+4419 TU YU LING.nii.gz,1.0,0.0
+4423 WANG JING.nii.gz,0.5,0.5
+4430 WANG HONG XIA.nii.gz,0.0,1.0
+4452 WANG XING FEN.nii.gz,1.0,0.0
+4454 WANG YONG QING.nii.gz,1.0,0.0
+4460 WANG ZHI MEI.nii.gz,1.0,0.0
+4471 WEN PING.nii.gz,1.0,0.0
+4480 WU HONG XIAN.nii.gz,1.0,0.0
+4486 XIAO YU FEN.nii.gz,1.0,0.0
+4505 XU YU.nii.gz,1.0,0.0
+4513 XU LIN ZHEN.nii.gz,1.0,0.0
+4521 YAN YONG HUA.nii.gz,0.0,1.0
+4524 YAN XUE.nii.gz,1.0,0.0
+4535 YANG LI QIONG.nii.gz,1.0,0.0
+4542 YANG RU LI.nii.gz,1.0,0.0
+4544 YANG SI YE.nii.gz,1.0,0.0
+4546 YANG XIAO MEI.nii.gz,1.0,0.0
+4573 YU FANG.nii.gz,1.0,0.0
+4574 YU JIAN QIONG.nii.gz,1.0,0.0
+4587 YUE YAN.nii.gz,0.5,0.5
+4595 ZHANG GUI FEN.nii.gz,1.0,0.0
+4601 ZHANG JIA BI.nii.gz,1.0,0.0
+4604 ZHANG JIAO.nii.gz,1.0,0.0
+4605 ZHANG JIE.nii.gz,1.0,0.0
+4606 ZHANG JIE.nii.gz,1.0,0.0
+4609 ZHANG LEI.nii.gz,0.0,1.0
+4610 ZHANG LI HUA.nii.gz,1.0,0.0
+4612 ZHANG LI.nii.gz,1.0,0.0
+4626 ZHANG WEN YING.nii.gz,1.0,0.0
+4627 ZHANG XIAN YA.nii.gz,1.0,0.0
+4628 ZHANG XIAO LI.nii.gz,1.0,0.0
+4630 ZHANG XIU HUA.nii.gz,1.0,0.0
+4652 ZHAO JUN LING.nii.gz,1.0,0.0
+4654 ZHAO LIN YAN.nii.gz,1.0,0.0
+4655 ZHAO MEI YING.nii.gz,0.0,1.0
+4670 ZHENG FEN LAN.nii.gz,1.0,0.0
+4679 ZHONG XIAO FANG.nii.gz,1.0,0.0
+4688 ZHOU LI.nii.gz,1.0,0.0
+4694 ZHOU YING MEI.nii.gz,1.0,0.0
+4713 ZHUANG LI.nii.gz,1.0,0.0
+4725 ZHANG RONG MEI.nii.gz,1.0,0.0
+4727 DAI XUE MEI.nii.gz,1.0,0.0
+4732 LI YAN.nii.gz,1.0,0.0
+4749 CAO HONG MEI.nii.gz,1.0,0.0
+4755 CHAI YAN JING.nii.gz,1.0,0.0
+4764 CHEN HONG FEN.nii.gz,1.0,0.0
+4770 CHEN LI QIONG.nii.gz,0.0,1.0
+4773 CHEN MEI YU.nii.gz,1.0,0.0
+4779 CHEN YAN HUA.nii.gz,1.0,0.0
+4782 CHEN YI.nii.gz,1.0,0.0
+4790 CHENG JING.nii.gz,1.0,0.0
+4803 DAI WEI HONG.nii.gz,1.0,0.0
+4806 DENG FENG ZHEN.nii.gz,1.0,0.0
+4808 DENG YAN MEI.nii.gz,1.0,0.0
+4814 DONG JING.nii.gz,0.0,1.0
+4821 DUAN FU YING.nii.gz,1.0,0.0
+4825 DUAN XING QIONG.nii.gz,1.0,0.0
+4851 GUI LI BO.nii.gz,1.0,0.0
+4856 GUO XIAO HUA.nii.gz,0.0,1.0
+4863 HE RUI PING.nii.gz,1.0,0.0
+4882 HU XING.nii.gz,1.0,0.0
+4883 HU XIU FEN.nii.gz,1.0,0.0
+4897 HUANG YA.nii.gz,1.0,0.0
+4903 JIANG HUI PING.nii.gz,1.0,0.0
+4915 JIN HONG MEI.nii.gz,0.0,1.0
+4935 LI CUN FANG.nii.gz,1.0,0.0
+4938 LI DONG JING.nii.gz,1.0,0.0
+4945 LI HONG MEI.nii.gz,1.0,0.0
+4960 LI LI.nii.gz,1.0,0.0
+4961 LI LI.nii.gz,1.0,0.0
+4975 TAN XUE LING.nii.gz,1.0,0.0
+4982 TAO TAO.nii.gz,1.0,0.0
+4983 TIAN JING.nii.gz,1.0,0.0
+4987 TIAN XIU FANG.nii.gz,1.0,0.0
+5047 WEI YUN LI.nii.gz,1.0,0.0
+5066 XIAO SHUN JU.nii.gz,1.0,0.0
+5080 XU YAO.nii.gz,0.0,1.0
+5096 YANG QIN.nii.gz,1.0,0.0
+5116 YANG JIAN YING.nii.gz,1.0,0.0
+5125 YANG LI QIAN.nii.gz,1.0,0.0
+5131 YANG RUN QIU.nii.gz,1.0,0.0
+5138 YANG XIAO RUN.nii.gz,0.0,1.0
+5152 YANG YUN NING.nii.gz,0.0,1.0
+5170 YUAN JING.nii.gz,1.0,0.0
+5171 YUE LI.nii.gz,1.0,0.0
+5183 ZHANG GUI YUN.nii.gz,1.0,0.0
+5190 ZHANG JING PING.nii.gz,1.0,0.0
+5207 ZHANG QING.nii.gz,1.0,0.0
+5221 ZHANG XIAO LI.nii.gz,1.0,0.0
+5244 ZHAO LI LAN.nii.gz,1.0,0.0
+5248 ZHAO MIN.nii.gz,0.0,1.0
+5257 ZHE JIA HUI.nii.gz,1.0,0.0
+5299 ZHANG ZU FENG.nii.gz,1.0,0.0
+5301 LI LI JUAN.nii.gz,1.0,0.0
+5394 LU JIA YING.nii.gz,0.0,1.0
+5591 SU YU FENG.nii.gz,1.0,0.0
+5599 YAN MING FENG.nii.gz,1.0,0.0
+5613 ZHAO RUN YAN.nii.gz,1.0,0.0
+5622Zhang Cai Yun.nii.gz,1.0,0.0
+5623Chen Xue Ying.nii.gz,1.0,0.0
+5631Sun Su Ji.nii.gz,1.0,0.0
+5644Liu Yu Huai.nii.gz,1.0,0.0
+5647Li Ji Fen.nii.gz,1.0,0.0
+5654Ma Ci Ya.nii.gz,1.0,0.0
+5655Ma Ruo Xian.nii.gz,0.0,1.0
+5677Chen Ming Li.nii.gz,1.0,0.0
+5683Li Yu Fang.nii.gz,1.0,0.0
+5693Yang Hai Yan.nii.gz,1.0,0.0
+5700Liu Fang.nii.gz,1.0,0.0
+5714Xiao Qiong.nii.gz,1.0,0.0
+5716Zhu Qiong.nii.gz,1.0,0.0
+5727Lu Jing.nii.gz,1.0,0.0
+5732Gu Jin Lian.nii.gz,1.0,0.0
+5741Hou Jing Jing.nii.gz,1.0,0.0
+5802Liao Yuan Hui.nii.gz,1.0,0.0
+5804Yang Li Xian.nii.gz,1.0,0.0
+5827Liu Yun Hua.nii.gz,1.0,0.0
+5837Li Jian Qiong.nii.gz,1.0,0.0
+5838Qian Jun Fang.nii.gz,1.0,0.0
+5850Zhang Jun.nii.gz,0.0,1.0
+5854Long Yan Hua.nii.gz,1.0,0.0
+5861Dong Jian Qiong.nii.gz,0.0,1.0
+5865Meng Qing Xia.nii.gz,1.0,0.0
+5867Liu Chun Hua.nii.gz,1.0,0.0
+5874Li Mei Hua.nii.gz,1.0,0.0
+5877Shen Zong Zhu.nii.gz,1.0,0.0
+5894Zhang Ji Ping.nii.gz,1.0,0.0
+5898Cao Rui.nii.gz,1.0,0.0
+5913Li Xiu Ying.nii.gz,1.0,0.0
+5915Hu Zun Tuan.nii.gz,1.0,0.0
+5917Yang Mao.nii.gz,0.0,1.0
+5921Wen Yuan.nii.gz,1.0,0.0
+5926Dai Hong Wei.nii.gz,1.0,0.0
+5927Zhang Mai.nii.gz,1.0,0.0
+5932Zhao Yue Ping.nii.gz,1.0,0.0
+5947LiYan.nii.gz,1.0,0.0
+5948Tan Yun Qing.nii.gz,1.0,0.0
+5956Li Rong Rui.nii.gz,1.0,0.0
+5972Xu Ju Hua.nii.gz,1.0,0.0
+5975Chen Guo Yan.nii.gz,0.0,1.0
+5983Yang Hui.nii.gz,1.0,0.0
+5989Wang Hong Yan.nii.gz,1.0,0.0
+5997Qu Yun Mei.nii.gz,1.0,0.0
+6002Lv Jia Hui.nii.gz,1.0,0.0
+6012Yang Jia Ying.nii.gz,0.0,1.0
+6024Shen Qin.nii.gz,1.0,0.0
+6031Li Jia Yun Rui.nii.gz,0.0,1.0
+6036Li Cai Xian.nii.gz,1.0,0.0
+6042Gan Ying Xiang.nii.gz,1.0,0.0
+6073Zhang Jia Ying.nii.gz,1.0,0.0
+6079Yang Li.nii.gz,0.0,1.0
+6083Qian Lu Fen.nii.gz,1.0,0.0
+6093Chen Shi Ping.nii.gz,1.0,0.0
+6102Ma Wen Xian.nii.gz,1.0,0.0
+6109Zhuo Mei.nii.gz,1.0,0.0
+6112Ma Chun Yan.nii.gz,1.0,0.0
+6120Qian Jin Xian.nii.gz,1.0,0.0
+6127Zhang Li.nii.gz,1.0,0.0
+6139Zhang Xiao Hua.nii.gz,0.0,1.0
+6144Gan Tian Mei.nii.gz,1.0,0.0
+6146Wang Yan.nii.gz,1.0,0.0
+6149He Hai Ying.nii.gz,1.0,0.0
+6151Li Chun Hua.nii.gz,1.0,0.0
+6163Zhang Li Hui.nii.gz,1.0,0.0
+6171Huang Lian Shu.nii.gz,1.0,0.0
+6173Kong Yin Huan.nii.gz,1.0,0.0
+6187Mu Feng Yu.nii.gz,1.0,0.0
+6191Jin Yin Ju.nii.gz,1.0,0.0
+6205Zhao Bo.nii.gz,1.0,0.0
+6226Yan Xiu Lan.nii.gz,0.0,1.0
+6231Zhou Yan.nii.gz,0.0,1.0
+6236Wang Yu Ling.nii.gz,1.0,0.0
+6239Hou Xiao Bo.nii.gz,1.0,0.0
+6242Dong Chun Yan.nii.gz,1.0,0.0
+6248Zhou Chun Mei.nii.gz,1.0,0.0
+6258Nong Fu Ling.nii.gz,1.0,0.0
+6270Wang Ling Yan.nii.gz,1.0,0.0
+6275Pan Mei.nii.gz,1.0,0.0
+6281Wu Yong Mei.nii.gz,1.0,0.0
+6283Li Xiao Li.nii.gz,1.0,0.0
+6292Yang De Lan.nii.gz,0.0,1.0
+6293Li Jin Fang.nii.gz,1.0,0.0
+6304Yu Wen Xin.nii.gz,1.0,0.0
+6307Li Ju Lan.nii.gz,1.0,0.0
+6310Yu Kan La.nii.gz,1.0,0.0
+6311Zhang Ying.nii.gz,1.0,0.0
+6332Liu Xue Yan.nii.gz,1.0,0.0
+6336Yu Chun Xiu.nii.gz,1.0,0.0
+6342Wang Guo Xian.nii.gz,1.0,0.0
+6349wang mei ying.nii.gz,1.0,0.0
+6352Luo Yan Ping.nii.gz,0.0,1.0
+6354Zhang Ying.nii.gz,0.0,1.0
+6358Zhou Yu Ling.nii.gz,1.0,0.0
+6362Chen Wei.nii.gz,1.0,0.0
+6364Li Xiao Wei.nii.gz,1.0,0.0
+6368Chen Qian Hui.nii.gz,1.0,0.0
+6370Jiang Gui Zhen.nii.gz,1.0,0.0
+6377Li Zhao Ying.nii.gz,1.0,0.0
+6381Yu Ting.nii.gz,1.0,0.0
+6385Song Deng.nii.gz,1.0,0.0
+6387You Huai.nii.gz,1.0,0.0
+6388Pan Yun.nii.gz,1.0,0.0
+6398Wu Cong Lian.nii.gz,1.0,0.0
+6399Li Jing.nii.gz,1.0,0.0
+6403Liu De Yan.nii.gz,1.0,0.0
+6407Liu Xing Hui.nii.gz,1.0,0.0
+6414Liu Wei.nii.gz,1.0,0.0
+6420Yang Xiao Qiong.nii.gz,1.0,0.0
+6428Ji Huan.nii.gz,1.0,0.0
+6431Su Yue.nii.gz,1.0,0.0
+6433Gong Xian.nii.gz,1.0,0.0
+6444He Ping.nii.gz,1.0,0.0
+6453Huang Chun Yan.nii.gz,1.0,0.0
+6454Jiao Hua Fang.nii.gz,1.0,0.0
+6459Wang Xiu Ying.nii.gz,1.0,0.0
+6464Hou Xiao Zhen.nii.gz,1.0,0.0
+6484Zhao Yu Mei.nii.gz,1.0,0.0
+6498Liu Yue Ying.nii.gz,1.0,0.0
+6499Jin Yu Huan.nii.gz,1.0,0.0
+6510Zhang Yi.nii.gz,1.0,0.0
+6515Zhao Xue Fen.nii.gz,1.0,0.0
+6518Yuan Guan Qiong.nii.gz,1.0,0.0
+6519Zhou Hong.nii.gz,1.0,0.0
+6530Chen Li Hua.nii.gz,1.0,0.0
+6533Zhang Jian Ying.nii.gz,1.0,0.0
+6534Guo Qiu Lin.nii.gz,1.0,0.0
+6536Zhang Cai Xia.nii.gz,1.0,0.0
+6544Li Yi Ze.nii.gz,1.0,0.0
+6558Gao Ru Fen.nii.gz,1.0,0.0
+6568Yan Ying Rong.nii.gz,0.0,1.0
+6572Li Juan.nii.gz,1.0,0.0
+6576Shen Qiong Fang.nii.gz,1.0,0.0
+6598Tian Ya Juan.nii.gz,0.0,1.0
+6606Chen Xiu Hua.nii.gz,1.0,0.0
+6611Zhao Shu Mei.nii.gz,1.0,0.0
+6613Liu Fang.nii.gz,0.0,1.0
+6615He Mei Hua.nii.gz,1.0,0.0
+6630Liu Dong Mei.nii.gz,1.0,0.0
+6636Zeng Qing Ling.nii.gz,1.0,0.0
+6643Zhao Qiong Hua.nii.gz,0.0,1.0
+6645Shi Yan Mei.nii.gz,1.0,0.0
+6649Chen Min.nii.gz,1.0,0.0
+6651Zhao Hui.nii.gz,1.0,0.0
+6656Li Yi Hua.nii.gz,1.0,0.0
+6664Luo Xiao Yan.nii.gz,1.0,0.0
+6673Duan Xing Min.nii.gz,0.0,1.0
+6677Jiang Yu Xiang.nii.gz,1.0,0.0
+6684Yu Li.nii.gz,1.0,0.0
+6697Zhao Zhen Hua.nii.gz,1.0,0.0
+6699Dong Xue Hui.nii.gz,0.0,1.0
+6706Zhou Ping.nii.gz,1.0,0.0
+6708Wang Qiao Lan.nii.gz,1.0,0.0
+6717Zhang Ting.nii.gz,1.0,0.0
+6729Zhao Xin Run.nii.gz,1.0,0.0
+6736Chen Li Ya.nii.gz,1.0,0.0
+6737Zi Rong Hui.nii.gz,1.0,0.0
+6738Zhang Bao Lian.nii.gz,1.0,0.0
+6774Tang Xiao Qiong.nii.gz,1.0,0.0
+6779Dong Yi.nii.gz,1.0,0.0
